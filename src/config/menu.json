@@ -1,0 +1,128 @@
+{
+  "main": [
+    {
+      "name": "Todas las páginas",
+      "url": "",
+      "hasMegamenu": true,
+      "image": "/images/menu.png",
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Página de inicio",
+              "url": "/"
+            },
+            {
+              "name": "Acerca de",
+              "url": "/about"
+            },
+            {
+              "name": "Términos",
+              "url": "/terms-and-conditions"
+            },
+            {
+              "name": "Servicios",
+              "url": "/services"
+            },
+            {
+              "name": "Blog",
+              "url": "/blog"
+            },
+            {
+              "name": "Privacidad",
+              "url": "/privacy-policy"
+            },
+            {
+              "name": "Reseñas",
+              "url": "/reviews"
+            },
+            {
+              "name": "Detalles del blog",
+              "url": "/blog/post-1"
+            },
+            {
+              "name": "Preguntas frecuentes",
+              "url": "/faqs"
+            },
+            {
+              "name": "Proyectos",
+              "url": "/projects"
+            },
+            {
+              "name": "Galería",
+              "url": "/gallery"
+            },
+            {
+              "name": "Contacto",
+              "url": "/contact"
+            },
+            {
+              "name": "Detalles del proyecto",
+              "url": "/projects/project-1"
+            },
+            {
+              "name": "Carrera",
+              "url": "/career"
+            },
+            {
+              "name": "Elementos",
+              "url": "/elements"
+            },
+            {
+              "name": "404",
+              "url": "/404"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trabajos",
+      "url": "/projects"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "title": "Enlaces rápidos",
+      "children": [
+        {
+          "name": "Proyectos",
+          "url": "/projects"
+        },
+        {
+          "name": "Acerca de nosotros",
+          "url": "/about"
+        },
+        {
+          "name": "Contacto",
+          "url": "/contact"
+        },
+        {
+          "name": "Carrera",
+          "url": "/career"
+        }
+      ]
+    },
+    {
+      "title": "Enlaces legales y de política",
+      "children": [
+        {
+          "name": "Política de privacidad",
+          "url": "/privacy-policy"
+        },
+        {
+          "name": "Términos de servicio",
+          "url": "/terms-and-conditions"
+        },
+        {
+          "name": "Contáctenos",
+          "url": "/contact"
+        }
+      ]
+    }
+  ]
+}
