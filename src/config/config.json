@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "NextSpace - Plantilla Astro para Empresa de Arquitectura e Interiorismo",
-    "base_url": "https://nextspace.mosley.mx",
+    "title": "Martiel - Cocinas Modernas y Muebles de MDF a Medida",
+    "base_url": "https://martiel.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -9,7 +9,7 @@
     "logo_footer": "/images/logo-footer.svg",
     "logo_width": "200",
     "logo_height": "40",
-    "logo_text": "NextSpace"
+    "logo_text": "Martiel"
   },
 
   "settings": {
@@ -18,22 +18,22 @@
 
   "params": {
     "contact_form_action": "#",
-    "address": "123 Main Street, New York, NY 10001",
-    "phone": "123-456-7890",
-    "email": "info@nextspace.com",
-    "footer_title": "¿Listo para construir el proyecto de tus sueños?",
-    "footer_content": "Desarrolla ideas de diseño conceptual, las refina en planos detallados."
+    "address": "Zona Metropolitana, Ciudad de México",
+    "phone": "55-1234-5678",
+    "email": "info@martiel.com",
+    "footer_title": "¿Listo para transformar tu cocina?",
+    "footer_content": "Diseñamos, fabricamos e instalamos cocinas modernas y muebles de MDF a medida con acabados premium."
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Obtén esta plantilla",
-    "link": "https://mosley.mx/products/nextspace-astro"
+    "label": "Solicitar Cotización",
+    "link": "/contact"
   },
 
   "footer_button": {
     "enable": true,
-    "label": "Empezar",
+    "label": "Empezar Proyecto",
     "link": "/contact"
   },
 
@@ -43,8 +43,8 @@
   },
 
   "metadata": {
-    "meta_author": "Mosley",
+    "meta_author": "Martiel",
     "meta_image": "/images/og-image.png",
-    "meta_description": "NextSpace - Plantilla Astro para Empresa de Arquitectura e Interiorismo"
+    "meta_description": "Martiel - Especialistas en diseño, fabricación e instalación de cocinas modernas y muebles de MDF a medida con acabados premium."
   }
 }

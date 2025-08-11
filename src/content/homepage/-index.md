@@ -1,21 +1,22 @@
 ---
 # Banner
 banner:
-  title: "Elevando Espacios, Creando Sueños"
-  content: "Nos especializamos en transformar visiones en realidad. Explore nuestro trabajo de arquitectura innovadora."
+  title: "Cocinas y Muebles de MDF"
+
+  content: "Diseñamos, fabricamos e instalamos cocinas y muebles MDF a medida con acabados premium. Servicio integral que incluye electricidad, plomería e iluminación."
   image: "/images/banner.png"
-  spinning_text: "• LA MEJOR EMPRESA DE INTERIORES DESDE 1992"
+  spinning_text: "• ESPECIALISTAS EN COCINAS MODERNAS DESDE 2010"
   button:
     enable: true
-    label: "Reserva una cita"
+    label: "Solicitar Cotización"
     link: "/contact"
 
 # Gallery
 gallery:
   enable: true
-  title: Arquitectura Interior.
-  subtitle: ACERCA de nosotros
-  description: Nos especializamos en transformar visiones en realidad. Explore nuestro portafolio de proyectos innovadores de arquitectura y diseño de interiores elaborados con precisión.
+  title: Cocinas Premium a Medida
+  subtitle: NUESTRO TRABAJO
+  description: Nos especializamos en crear cocinas modernas y funcionales con materiales de alta gama. Cada proyecto combina estética contemporánea con soluciones personalizadas para quintas, casas de descanso y residencias.
   images:
     - "/images/gallery/1.png"
     - "/images/gallery/2.png"
@@ -37,45 +38,45 @@ gallery:
 # Fun Facts
 fun_facts:
   enable: true
-  title: "Desde nuestra fundación, Kindora ha tenido un impacto extenso"
+  title: "Desde nuestra fundación, Martiel ha transformado cientos de hogares"
   description: ""
   metrics:
-    - name: "Proyectos de Interiorismo"
-      description: "Diseños que hemos terminado en los últimos 32 años."
+    - name: "Proyectos terminados"
+      description: "Proyectos completados con éxito en los últimos años."
       counter:
-        count: "8"
-        count_suffix: "K"
+        count: "300"
+        count_suffix: "+"
         count_prefix: ""
         count_duration: 3
 
-    - name: "Años de Trabajo"
-      description: "Diseños que hemos terminado en los últimos 32 años."
+    - name: "Años de Experiencia"
+      description: "Especializándonos en cocinas modernas y muebles de MDF."
       counter:
-        count: "31"
+        count: "15"
         count_suffix: ""
         count_prefix: ""
         count_duration: 0.5
 
     - name: "Clientes Satisfechos"
-      description: "Diseños que hemos terminado en los últimos 32 años."
+      description: "Familias que confían en la calidad de nuestro trabajo."
       counter:
-        count: "12"
-        count_suffix: "K"
+        count: "450"
+        count_suffix: "+"
         count_prefix: ""
         count_duration: 3.5
 
-    - name: "Tasa de satisfacción"
-      description: "Diseños que hemos terminado en los últimos 32 años."
+    - name: "Satisfacción Garantizada"
+      description: "Compromiso con la excelencia en cada proyecto."
       counter:
-        count: "97"
+        count: "99"
         count_suffix: "%"
         count_prefix: ""
         count_duration: 4
 
 # Services Section
 services:
-  enable: true
-  title: "Consigue la casa de tus sueños con ayuda experta."
+  enable: false
+  title: "Transforma tu cocina con nuestro servicio integral"
   subtitle: "SERVICIOS"
   button:
     enable: true
@@ -85,26 +86,24 @@ services:
 
 # Services Facts Section
 services_facts:
-  enable: true
+  enable: false
   title: "SERVICIOS"
   subtitle: "Nuestro Proceso de Trabajo"
   metrics:
-    - name: "Consulta Inicial"
-      description: "El proceso a menudo comienza con una consulta inicial entre el diseñador/arquitecto. Comience aquí."
-    - name: "Desarrollo del Concepto"
-      description: "El proceso a menudo comienza con una consulta inicial entre el diseñador/arquitecto. Comience aquí."
-    - name: "Desarrollo del Diseño"
-      description: "El proceso a menudo comienza con una consulta inicial entre el diseñador/arquitecto. Comience aquí."
-    - name: "Permisos y Aprobaciones"
-      description: "El proceso a menudo comienza con una consulta inicial entre el diseñador/arquitecto. Comience aquí."
-    - name: "Cierre del Proyecto"
-      description: "El proceso a menudo comienza con una consulta inicial entre el diseñador/arquitecto. Comience aquí."
+    - name: "Consulta y Diseño"
+      description: "Evaluamos el espacio y diseñamos la cocina perfecta según tus necesidades y estilo de vida."
+    - name: "Fabricación Personalizada"
+      description: "Fabricamos cada mueble con MDF de alta calidad y acabados premium en nuestro taller especializado."
+    - name: "Instalación Integral"
+      description: "Instalamos la cocina completa incluyendo electricidad, plomería, iluminación y acabados finales."
+    - name: "Entrega y Garantía"
+      description: "Entregamos tu cocina lista para usar con garantía total en materiales y mano de obra."
 
 # Projects Section
 projects:
   enable: true
-  title: "Nuestros Proyectos y Diseños"
-  subtitle: "TRABAJOS"
+  title: "Nuestras Cocinas y Proyectos"
+  subtitle: "PORTAFOLIO"
   button:
     enable: true
     label: "Ver todos los proyectos"

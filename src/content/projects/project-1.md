@@ -1,32 +1,32 @@
 ---
-title: "Interior del Hogar D-Orex"
-meta_title: ""
-description: "El uso eficiente del espacio es crucial en el diseño de interiores del hogar. Considere la disposición de los muebles."
+title: "Cocina Moderna en Quinta Familiar"
+meta_title: "Cocina Moderna en Quinta Familiar - Proyecto Martiel"
+description: "Transformación completa de cocina en quinta familiar con muebles de MDF, acabados premium e instalaciones integrales."
 date: 2025-05-07T05:00:00Z
 image: "/images/projects/1.png"
 featured_in_homepage: true
-client_name: "Excel Homes"
-project_type: "Diseño de interiores"
+client_name: "Familia González"
+project_type: "Cocina Integral"
 draft: false
 ---
 
-#### Problemas
+#### El Desafío
 
-**Nos especializamos en transformar visiones en realidad. Explore nuestro portafolio de proyectos innovadores de arquitectura y diseño de interiores elaborados con precisión.**
+**Este proyecto consistió en transformar una cocina tradicional en un espacio moderno y funcional para una familia que disfruta de su quinta los fines de semana.**
 
-Explicación de cómo se utiliza la información personal para mantener la seguridad de los sistemas de la agencia de interiores, prevenir el acceso no autorizado o fraude, y proteger contra otras actividades ilegales. Garantía de que la información personal solo se recopilarán y utilizarán para fines consistentes con el consentimiento o preferencias de los individuos, cuando sea aplicable, y de acuerdo con las leyes y regulaciones de privacidad aplicables.
+El cliente necesitaba una cocina que combinara estilo contemporáneo con máxima funcionalidad, aprovechando un espacio rectangular de dimensiones limitadas. Era fundamental crear una zona de preparación eficiente, integrar electrodomésticos modernos y proporcionar amplio almacenamiento, todo mientras se mantenía la elegancia y sofisticación que caracteriza a los espacios de descanso.
 
 ![alt text](/images/projects/a.png)
 
-#### Soluciones
+#### La Solución
 
-Explicación de cómo se utiliza la información personal para mantener la seguridad de los sistemas de la agencia de interiores, prevenir el acceso no autorizado o fraude, y proteger contra otras actividades ilegales. Garantía de que la información personal solo se recopilarán y utilizarán para fines consistentes con el consentimiento o preferencias de los individuos, cuando sea aplicable, y de acuerdo con las leyes y regulaciones de privacidad aplicables.
+Diseñamos una cocina integral con muebles de MDF en acabado blanco mate, combinados con encimeras de cuarzo y detalles en madera natural. La distribución en "L" optimiza el flujo de trabajo, mientras que la isla central proporciona espacio adicional de preparación y una zona de desayuno informal.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> "El equipo de Martiel superó nuestras expectativas. La atención al detalle y la calidad de los acabados son excepcionales. Nuestra cocina se ha convertido en el corazón de nuestra quinta." - Familia González
 
-#### Resultado
+#### El Resultado
 
-Explicación de cómo se utiliza la información personal para mantener la seguridad de los sistemas de la agencia de interiores, prevenir el acceso no autorizado o fraude, y proteger contra otras actividades ilegales. Garantía de que la información personal solo se recopilarán y utilizarán para fines consistentes con el consentimiento o preferencias de los individuos, cuando sea aplicable, y de acuerdo con las leyes y regulaciones de privacidad aplicables.
+La transformación logró crear un espacio elegante y altamente funcional que cumple con todas las necesidades de la familia. Los muebles de MDF con acabados premium resisten perfectamente las condiciones de humedad, mientras que el sistema de iluminación LED realza cada detalle. La instalación eléctrica y de plomería se realizó sin contratiempos, entregando una cocina completamente funcional en tiempo récord.
 
 ![alt text](/images/projects/b.png)
 ![alt text](/images/projects/c.png)

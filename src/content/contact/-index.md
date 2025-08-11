@@ -1,12 +1,10 @@
 ---
-title: "¡Conéctate con nosotros!"
-meta_title: "Contacto"
-description: "Creemos en la colaboración y valoramos tu opinión a lo largo del
-  proceso de diseño. Animamos a los clientes a participar activamente en las
-  discusiones, compartir sus ideas, preferencias y comentarios."
+title: "¡Contacta con Martiel!"
+meta_title: "Contacto - Martiel"
+description: "¿Listo para transformar tu cocina? Contáctanos para una consulta gratuita. Diseñamos, fabricamos e instalamos cocinas modernas y muebles de MDF a medida con acabados premium."
 
 address_section:
-  title: "¡Interesado en trabajar con nosotros!"
-  description: "Animamos a nuestro equipo a desafiar sin miedo las convenciones y a ser pioneros en nuevos caminos."
+  title: "¡Comienza tu proyecto de cocina ideal!"
+  description: "Nuestro equipo de especialistas está listo para hacer realidad la cocina de tus sueños. Servicio integral desde el diseño hasta la instalación final."
 draft: false
 ---

@@ -1,50 +1,50 @@
 ---
-title: "Reseñas de Clientes"
-subtitle: "Reseñas"
-meta_title: "Reseñas"
-description: "Animamos a nuestro equipo a desafiar sin miedo las convenciones y a ser pioneros en nuevos caminos."
+title: "Testimonios de Clientes"
+subtitle: "Testimonios"
+meta_title: "Testimonios - Martiel"
+description: "Descubre lo que nuestros clientes dicen sobre nuestro trabajo. Cada testimonio refleja nuestro compromiso con la excelencia en cocinas modernas."
 image: "/images/contact.png"
 
 testimonials:
-  - name: "William Elijah Jr."
-    designation: "Director General"
+  - name: "María González"
+    designation: "Propietaria Quinta Los Álamos"
     avatar: "/images/reviews/1.png"
-    content: "Nos especializamos en transformar visiones en realidad. Explore nuestro portafolio de proyectos innovadores de arquitectura y diseño de interiores elaborados con precisión."
+    content: "Martiel transformó completamente nuestra cocina. La calidad de los muebles de MDF y los acabados premium superaron nuestras expectativas. El servicio integral nos ahorró mucho tiempo y esfuerzo."
     featured: true
 
-  - name: "Lucas Benjamin"
-    designation: "Director General"
+  - name: "Carlos Hernández"
+    designation: "Casa de Descanso Valle Verde"
     avatar: "/images/reviews/1.png"
-    content: "Gracias a Nextspace, mi hogar se ha transformado en un santuario que refleja mi personalidad y estilo de vida."
+    content: "La atención al detalle y profesionalismo del equipo de Martiel es excepcional. Nuestra cocina no solo es hermosa, sino también súper funcional para cuando recibimos invitados."
     featured: true
 
-  - name: "Marvin McKinney"
-    designation: "Propietario Feliz"
+  - name: "Ana Rodríguez"
+    designation: "Residencia Familiar"
     avatar: "/images/reviews/1.png"
-    content: "Tuve el placer de trabajar con Nextspace en una renovación completa de mi casa, y no podría estar más feliz con los resultados."
+    content: "Desde el diseño hasta la instalación final, todo fue perfecto. Los muebles de MDF se ven y se sienten premium. Definitivamente recomiendo Martiel para cualquier proyecto de cocina."
     featured: true
 
-  - name: "Marvin McKinney"
-    designation: "Diseñador Web"
+  - name: "Roberto Martínez"
+    designation: "Quinta El Refugio"
     avatar: ""
-    content: "Nos especializamos en transformar visiones en realidad. Explore nuestro portafolio de proyectos innovadores de arquitectura y diseño de interiores elaborados con precisión."
+    content: "El proceso fue muy organizado y cumplieron con todos los tiempos prometidos. La cocina quedó exactamente como la habíamos soñado, funcional y elegante."
     featured: false
 
-  - name: "Marvin McKinney"
-    designation: "Diseñador Web"
+  - name: "Laura Fernández"
+    designation: "Casa de Campo"
     avatar: ""
-    content: "Nos especializamos en transformar visiones en realidad. Explore nuestro portafolio de proyectos innovadores de arquitectura y diseño de interiores elaborados con precisión."
+    content: "La instalación eléctrica y de plomería quedó impecable. Es una tranquilidad saber que todo está bien hecho y con garantía. El equipo es muy profesional."
     featured: false
 
-  - name: "Marvin McKinney"
-    designation: "Diseñador Web"
+  - name: "Miguel Torres"
+    designation: "Villa Las Flores"
     avatar: ""
-    content: "Nos especializamos en transformar visiones en realidad. Explore nuestro portafolio de proyectos innovadores de arquitectura y diseño de interiores elaborados con precisión."
+    content: "La calidad de los materiales es excelente. Después de un año de uso intensivo, la cocina se ve como nueva. La inversión valió completamente la pena."
     featured: false
 
-  - name: "Marvin McKinney"
-    designation: "Diseñador Web"
+  - name: "Patricia Silva"
+    designation: "Residencia Moderna"
     avatar: ""
-    content: "Nos especializamos en transformar visiones en realidad. Explore nuestro portafolio de proyectos innovadores de arquitectura y diseño de interiores elaborados con precisión."
+    content: "Martiel entiende perfectamente las necesidades de las familias. Cada detalle de almacenamiento fue pensado para hacer nuestra vida más fácil en la cocina."
     featured: false
 ---
