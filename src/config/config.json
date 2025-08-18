@@ -28,13 +28,13 @@
   "navigation_button": {
     "enable": true,
     "label": "Solicitar Cotización",
-    "link": "/contact"
+    "link": "/contacto"
   },
 
   "footer_button": {
     "enable": true,
     "label": "Empezar Proyecto",
-    "link": "/contact"
+    "link": "/contacto"
   },
 
   "google_tag_manager": {

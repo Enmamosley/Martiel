@@ -24,7 +24,7 @@ const { project, index } = Astro.props;
   </div>
 
   <div class="flex gap-2 flex-wrap items-center pt-8 justify-between">
-    <a href={`/projects/${project.id}`} class="before:absolute before:inset-0">
+    <a href={`/proyectos/${project.id}`} class="before:absolute before:inset-0">
       <h3
         class="relative pl-5 h5 font-medium before:content-[''] before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:w-2.5 before:h-2.5 before:rounded-full before:bg-current"
         set:html={markdownify(project.data.title)}

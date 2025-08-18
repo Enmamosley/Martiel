@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Solicitar Cotización"
-    link: "/contact"
+    link: "/contacto"
 
 # Gallery
 gallery:
@@ -81,7 +81,7 @@ services:
   button:
     enable: true
     label: "Ver todos los servicios"
-    link: "/services"
+    link: "/servicios"
   # All services in the `src/content/services`
 
 # Services Facts Section
@@ -107,6 +107,6 @@ projects:
   button:
     enable: true
     label: "Ver todos los proyectos"
-    link: "/projects"
+    link: "/proyectos"
   # All projects in the `src/content/projects`
 ---

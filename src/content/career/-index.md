@@ -10,14 +10,14 @@ available_jobs:
   jobs:
     - name: "Diseñador de Cocinas Senior"
       location: "Tiempo Completo/Ciudad de México"
-      link: "/contact"
+      link: "/contacto"
     - name: "Especialista en Instalaciones"
       location: "Tiempo Completo/Zona Metropolitana"
-      link: "/contact"
+      link: "/contacto"
     - name: "Fabricante de Muebles MDF"
       location: "Tiempo Completo/Taller"
-      link: "/contact"
+      link: "/contacto"
     - name: "Coordinador de Proyectos"
       location: "Tiempo Completo/Campo/Oficina"
-      link: "/contact"
+      link: "/contacto"
 ---

@@ -7,7 +7,7 @@ description: " Animamos a los clientes a participar activamente en las discusion
 button_solid:
   enable: true
   label: "Ponte en contacto"
-  link: "/contact"
+  link: "/contacto"
 
 button_outline:
   enable: true

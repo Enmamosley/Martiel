@@ -1,10 +1,6 @@
 ---
-import ImageMod from "@/components/ImageMod.astro";
-import Base from "@/layouts/Base.astro";
-import { getSinglePage } from "@/lib/contentParser.astro";
-import { markdownify } from "@/lib/utils/textConverter";
-import CallToAction from "@/partials/CallToAction.astro";
-import { render } from "astro:content";
+// Redirección automática de /projects/[proyecto] a /proyectos/[proyecto]
+import { getSinglePage } from "../../lib/contentParser.astro";
 
 export async function getStaticPaths() {
   const FOLDER = "projects";
@@ -20,64 +16,28 @@ export async function getStaticPaths() {
 }
 
 const { project } = Astro.props;
-const { Content } = await render(project);
-const { title, meta_title, description, image, client_name, project_type } =
-  project.data;
+const redirectUrl = `/proyectos/${project.id}`;
+
+const response = Astro.response;
+response.headers.set('Location', redirectUrl);
+response.status = 301;
 ---
 
-<Base
-  title={title}
-  meta_title={meta_title}
-  description={description}
-  image={image}
->
-  <section>
-    <div class="container">
-      <div class="row">
-        <h1
-          class="lg:text-[6rem] pt-[12.5rem] pb-[8.125rem] text-center"
-          set:html={markdownify(title)}
-        />
-      </div>
-      <div class="row justify-center">
-        <div class="col-11 mx-auto lg:col-3">
-          <div
-            class="max-lg:flex flex-wrap justify-between lg:sticky gap-10 top-30 pb-10"
-          >
-            <div>
-              <p class="text-primary text-lg mb-3">Nombre del Cliente</p>
-              <p class="text-lg" set:html={markdownify(client_name!)} />
-            </div>
+<script define:vars={{ redirectUrl }}>
+  // Redirección del lado del cliente como respaldo
+  if (typeof window !== 'undefined') {
+    window.location.replace(redirectUrl);
+  }
+</script>
 
-            <div class="lg:pt-10">
-              <p class="text-primary text-lg mb-3">Tipo de Proyecto</p>
-              <p class="text-lg" set:html={markdownify(project_type!)} />
-            </div>
-          </div>
-        </div>
-        <article class="col-11 mx-auto lg:col-9">
-          {
-            image && (
-              <div class="pb-20">
-                <ImageMod
-                  src={image}
-                  height={500}
-                  width={1200}
-                  alt={title}
-                  class="w-full"
-                  format="webp"
-                />
-              </div>
-            )
-          } 
-
-          <div class="content mb-10">
-            <Content />
-          </div>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <CallToAction isNoSectionBottom />
-</Base>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content={`0; url=${redirectUrl}`}>
+  <title>Redirigiendo...</title>
+</head>
+<body>
+  <p>Si no eres redirigido automáticamente, <a href={redirectUrl}>haz clic aquí</a>.</p>
+</body>
+</html>
