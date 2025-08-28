@@ -1,32 +1,26 @@
 ---
-title: "Orion Home Studio Interior"
-meta_title: ""
-description: "Efficient use of space is crucial in home interior design. Consider the layout of furniture."
-date: 2025-05-07T05:00:00Z
+title: "Quinta Puerta Dorada"
+meta_title: "Quinta Puerta Dorada - Proyecto Martiel"
+description: "Diseño y fabricación de mobiliario a medida en MDF para recámaras, vanities, sala de TV y áreas complementarias."
+date: 2025-02-01T05:00:00Z
 image: "/images/projects/2.png"
 featured_in_homepage: true
-client_name: "Prime Properties"
-project_type: "Architecture Plan"
+client_name: "Cliente Genérico"
+project_type: "Mobiliario Integral"
 draft: false
 ---
 
-#### Problems
+#### Desafío
 
-**We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision.**
+En esta quinta familiar recién construida, las áreas interiores se entregaron completamente vacías, sin mobiliario que definiera su carácter o funcionalidad. El reto fue diseñar y fabricar muebles y gabinetes de MDF a medida para recámaras, vanities, sala de tv y áreas complementarias, logrando que cada espacio se sintiera acogedor, práctico y visualmente armonioso.
 
-Explanation of how personal information is used to maintain the security of interior agency systems, prevent unauthorized access or fraud, and protect against other unlawful activities. Assurance that personal information will only be collected and used for purposes consistent with individuals' consent or preferences, where applicable, and in accordance with applicable privacy laws and regulations.
+#### Solución
 
-![alt text](/images/projects/a.png)
+Se optó por un estilo contemporáneo cálido, combinando tonos neutros con texturas que aportan elegancia y confort. Los muebles de MDF fueron diseñados con líneas limpias y almacenamiento inteligente, integrando elementos como paneles decorativos, repisas flotantes y detalles en acabados amaderados para equilibrar lo moderno con lo acogedor.
 
-#### Solutions
+#### Resultado
 
-Explanation of how personal information is used to maintain the security of interior agency systems, prevent unauthorized access or fraud, and protect against other unlawful activities. Assurance that personal information will only be collected and used for purposes consistent with individuals' consent or preferences, where applicable, and in accordance with applicable privacy laws and regulations.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Result
-
-Explanation of how personal information is used to maintain the security of interior agency systems, prevent unauthorized access or fraud, and protect against other unlawful activities. Assurance that personal information will only be collected and used for purposes consistent with individuals' consent or preferences, where applicable, and in accordance with applicable privacy laws and regulations.
+El proyecto transformó completamente la experiencia interior, creando espacios organizados y llenos de personalidad. Desde las recámaras con cabeceras integradas y tocadores iluminados, hasta el centro de entretenimiento en la sala, cada mueble se adapta a las necesidades del hogar, manteniendo una estética coherente y de alta calidad en toda la quinta.
 
 ![alt text](/images/projects/b.png)
 ![alt text](/images/projects/c.png)

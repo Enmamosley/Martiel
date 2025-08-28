@@ -1,32 +1,26 @@
 ---
-title: "Titan Office Interior"
-meta_title: ""
-description: "Efficient use of space is crucial in home Exterior Design. Consider the layout of furniture."
-date: 2025-05-07T05:00:00Z
+title: "Proyecto Lanka"
+meta_title: "Proyecto Lanka - Proyecto Martiel"
+description: "Diseño e instalación de clósets en MDF con acabado gris claro para departamento nuevo."
+date: 2025-06-01T05:00:00Z
 image: "/images/projects/6.png"
 featured_in_homepage: true
-client_name: "Titan Group"
-project_type: "Exterior Design"
+client_name: "Cliente Genérico"
+project_type: "Clósets"
 draft: false
 ---
 
-#### Problems
+#### Desafío
 
-**We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision.**
+En este departamento nuevo, las recámaras contaban con el espacio destinado para clósets, pero carecían completamente de mobiliario. Era necesario diseñar e instalar un sistema que respondiera a las necesidades de almacenamiento, aprovechara al máximo las dimensiones y se integrara estéticamente con el estilo arquitectónico del lugar.
 
-Explanation of how personal information is used to maintain the security of interior agency systems, prevent unauthorized access or fraud, and protect against other unlawful activities. Assurance that personal information will only be collected and used for purposes consistent with individuals' consent or preferences, where applicable, and in accordance with applicable privacy laws and regulations.
+#### Solución
 
-![alt text](/images/projects/a.png)
+Se diseñaron e instalaron muebles en MDF con acabado en tono gris claro, logrando una estética limpia y contemporánea que armoniza con la arquitectura del espacio. Cada clóset incluye cajoneras, divisiones inferiores y barra de colgado, así como módulos abiertos que aportan versatilidad. El diseño minimalista y las líneas rectas potencian la sensación de amplitud y orden visual.
 
-#### Solutions
+#### Resultado
 
-Explanation of how personal information is used to maintain the security of interior agency systems, prevent unauthorized access or fraud, and protect against other unlawful activities. Assurance that personal information will only be collected and used for purposes consistent with individuals' consent or preferences, where applicable, and in accordance with applicable privacy laws and regulations.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Result
-
-Explanation of how personal information is used to maintain the security of interior agency systems, prevent unauthorized access or fraud, and protect against other unlawful activities. Assurance that personal information will only be collected and used for purposes consistent with individuals' consent or preferences, where applicable, and in accordance with applicable privacy laws and regulations.
+El resultado es un mobiliario que combina funcionalidad y elegancia, adaptado perfectamente a las dimensiones y estilo de cada habitación. Los clósets en MDF ofrecen una organización eficiente y duradera, integrándose como parte esencial del diseño arquitectónico y elevando la calidad estética del espacio.
 
 ![alt text](/images/projects/b.png)
 ![alt text](/images/projects/c.png)

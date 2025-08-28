@@ -24,7 +24,7 @@ const { title, description, meta_title, image, address_section } = contact.data;
 >
   <PageHeader title={title} />
   <section
-    class="-mt-[45%] sm:-mt-[30%] md:-mt-[25%] lg:-mt-[40%] xl:-mt-[30%] 2xl:-mt-[23%]"
+    class="-mt-[20%] sm:-mt-[15%] md:-mt-[12%] lg:-mt-[10%] xl:-mt-[8%] 2xl:-mt-[7%] mb-10"
   >
     <div class="container">
       <div
@@ -34,9 +34,10 @@ const { title, description, meta_title, image, address_section } = contact.data;
           <form
             data-aos="fade-right-sm"
             data-aos-delay="150"
-            class="bg-primary px-12 py-14"
+            class="bg-primary px-8 sm:px-12 py-10 sm:py-14 shadow-xl rounded-lg border border-white/10 contact-form-shadow"
             action={contact_form_action}
             method="POST"
+            onsubmit="alert('¡Gracias por tu mensaje! Te contactaremos pronto.'); return false;"
           >
             <h2 class="text-white mb-4" set:html={markdownify(title)} />
             {
@@ -49,12 +50,12 @@ const { title, description, meta_title, image, address_section } = contact.data;
             }
 
             <div class="mb-6">
-              <label for="name" class="form-label">
+              <label for="full_name" class="form-label">
                 Nombre completo <span class="text-red-500">*</span>
               </label>
               <input
-                id="name"
-                name="name"
+                id="full_name"
+                name="full_name"
                 class="form-input"
                 placeholder="John Doe"
                 type="text"
@@ -73,14 +74,14 @@ const { title, description, meta_title, image, address_section } = contact.data;
               />
             </div>
             <div class="mb-6">
-              <label for="name" class="form-label">
+              <label for="subject" class="form-label">
                 Asunto de la consulta <span class="text-red-500">*</span>
               </label>
               <input
-                id="name"
-                name="name"
+                id="subject"
+                name="subject"
                 class="form-input"
-                placeholder="Quiero decorar mi casa"
+                placeholder="Cotización de cocina integral"
                 type="text"
               />
             </div>
@@ -97,9 +98,9 @@ const { title, description, meta_title, image, address_section } = contact.data;
             </div>
             <Button
               enable
-              label="Enviar un mensaje"
+              label="Enviar mensaje"
               type="submit"
-              style="btn-outline"
+              style="btn-primary"
             />
           </form>
         </div>
@@ -118,21 +119,22 @@ const { title, description, meta_title, image, address_section } = contact.data;
             set:html={markdownify(address_section.description)}
           />
 
-          <ul class="grid grid-cols-2 gap-8 mt-12">
-            <li data-aos="fade-up-sm" data-aos-delay="250">
-              <h4 class="h6 mb-3">Correo electrónico de trabajo</h4>
-              <a href={`mailto:${config.params.email}`}>{config.params.email}</a
+          <ul class="grid gap-8 mt-12 sm:grid-cols-2">
+            <li data-aos="fade-up-sm" data-aos-delay="250" class="contact-info-item">
+              <h4 class="h6 mb-3">Correo electrónico</h4>
+              <a href={`mailto:${config.params.email}`} class="text-primary hover:text-primary-dark transition">{config.params.email}</a
               >
             </li>
-            <li data-aos="fade-up-sm" data-aos-delay="300">
-              <h4 class="h6 mb-3">Teléfono de la oficina</h4>
-              <a href={`tel:${config.params.phone}`}>{config.params.phone}</a>
+            <li data-aos="fade-up-sm" data-aos-delay="300" class="contact-info-item">
+              <h4 class="h6 mb-3">Teléfono</h4>
+              <a href={`tel:${config.params.phone}`} class="text-primary hover:text-primary-dark transition">{config.params.phone}</a>
             </li>
-            <li data-aos="fade-up-sm" data-aos-delay="350">
-              <h4 class="h6 mb-3">Dirección de la oficina</h4>
+            <li data-aos="fade-up-sm" data-aos-delay="350" class="sm:col-span-2 contact-info-item">
+              <h4 class="h6 mb-3">Dirección</h4>
               <a
                 target="_blank"
                 href={`https://www.google.com/maps?q=${encodeURIComponent(config.params.address)}`}
+                class="text-primary hover:text-primary-dark transition"
                 set:html={markdownify(config.params.address)}
               />
             </li>

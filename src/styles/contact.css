@@ -1,0 +1,44 @@
+/* Estilos adicionales para la página de contacto */
+.contact-form-shadow {
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+}
+
+/* Animación suave al enfocar campos */
+.form-input {
+  transition: all 0.3s ease;
+}
+
+.form-input:focus {
+  transform: translateY(-2px);
+}
+
+/* Mejoras para dispositivos móviles */
+@media (max-width: 640px) {
+  .form-input {
+    padding: 0.75rem;
+    font-size: 0.95rem;
+  }
+  
+  .form-label {
+    font-size: 0.95rem;
+  }
+}
+
+/* Mejora del botón de envío */
+.contact-submit-btn {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.contact-submit-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+}
+
+/* Mejora de los íconos de contacto */
+.contact-info-item {
+  transition: transform 0.3s ease;
+}
+
+.contact-info-item:hover {
+  transform: translateY(-5px);
+}

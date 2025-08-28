@@ -1,32 +1,26 @@
 ---
-title: "Home Corner Interior"
-meta_title: ""
-description: "Efficient use of space is crucial in home interior design. Consider the layout of furniture."
-date: 2025-05-07T05:00:00Z
+title: "Proyecto Allende"
+meta_title: "Proyecto Allende - Proyecto Martiel"
+description: "Renovación de closet y vanities con nuevo diseño y mejor aprovechamiento del espacio."
+date: 2025-03-01T05:00:00Z
 image: "/images/projects/3.png"
-featured_in_homepage: true
-client_name: "Creative Structures"
-project_type: "Architecture Plan"
+featured_in_homepage: false
+client_name: "Cliente Genérico"
+project_type: "Renovación Mobiliario"
 draft: false
 ---
 
-#### Problems
+#### Desafío
 
-**We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision.**
+El proyecto inició con un closet y vanities que, aunque funcionales, presentaban un diseño anticuado y poco aprovechamiento del espacio. La distribución no permitía una organización óptima y los acabados ya no transmitían la frescura ni el estilo que el cliente buscaba para su hogar.
 
-Explanation of how personal information is used to maintain the security of interior agency systems, prevent unauthorized access or fraud, and protect against other unlawful activities. Assurance that personal information will only be collected and used for purposes consistent with individuals' consent or preferences, where applicable, and in accordance with applicable privacy laws and regulations.
+#### Solución
 
-![alt text](/images/projects/a.png)
+Se renovaron por completo los muebles en MDF, incorporando un acabado blanco con detalles en efecto mármol para lograr una estética más actual y luminosa. La integración de iluminación LED en el closet y un espejo retroiluminado en el vanity no solo aportan un toque moderno, sino que también mejoran la funcionalidad y la experiencia de uso.
 
-#### Solutions
+#### Resultado
 
-Explanation of how personal information is used to maintain the security of interior agency systems, prevent unauthorized access or fraud, and protect against other unlawful activities. Assurance that personal information will only be collected and used for purposes consistent with individuals' consent or preferences, where applicable, and in accordance with applicable privacy laws and regulations.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-#### Result
-
-Explanation of how personal information is used to maintain the security of interior agency systems, prevent unauthorized access or fraud, and protect against other unlawful activities. Assurance that personal information will only be collected and used for purposes consistent with individuals' consent or preferences, where applicable, and in accordance with applicable privacy laws and regulations.
+El cambio revitalizó por completo el ambiente, logrando un closet más ordenado y visualmente amplio, y vanities que se convierten en piezas protagonistas del espacio. La combinación de acabados claros, iluminación estratégica y diseño limpio transforma el día a día en una experiencia más práctica y elegante.
 
 ![alt text](/images/projects/b.png)
 ![alt text](/images/projects/c.png)

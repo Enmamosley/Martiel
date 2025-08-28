@@ -1,32 +1,23 @@
 ---
-title: "Cocina Moderna en Quinta Familiar"
-meta_title: "Cocina Moderna en Quinta Familiar - Proyecto Martiel"
-description: "Transformación completa de cocina en quinta familiar con muebles de MDF, acabados premium e instalaciones integrales."
-date: 2025-05-07T05:00:00Z
+title: "Quinta Misión Antigua"
+meta_title: "Quinta Misión Antigua - Proyecto Martiel"
+description: "Transformación de cocina vacía en quinta familiar en un espacio funcional, cómodo y estéticamente atractivo."
+date: 2025-01-01T05:00:00Z
 image: "/images/projects/1.png"
-featured_in_homepage: true
-client_name: "Familia González"
+featured_in_homepage: false
+client_name: "Cliente Genérico"
 project_type: "Cocina Integral"
 draft: false
 ---
 
-#### El Desafío
+#### Desafío
 
-**Este proyecto consistió en transformar una cocina tradicional en un espacio moderno y funcional para una familia que disfruta de su quinta los fines de semana.**
+Quinta familiar completamente nueva. El área destinada a la cocina se encontraba vacía, sin mobiliario ni elementos que definieran su función. El reto consistía en transformar este espacio amplio y luminoso en un ambiente funcional, cómodo y estéticamente atractivo, capaz de atender las necesidades de reuniones familiares y eventos, manteniendo un equilibrio entre practicidad y diseño.
 
-El cliente necesitaba una cocina que combinara estilo contemporáneo con máxima funcionalidad, aprovechando un espacio rectangular de dimensiones limitadas. Era fundamental crear una zona de preparación eficiente, integrar electrodomésticos modernos y proporcionar amplio almacenamiento, todo mientras se mantenía la elegancia y sofisticación que caracteriza a los espacios de descanso.
+#### Solución
 
-![alt text](/images/projects/a.png)
+Se optó por un diseño moderno y minimalista, utilizando muebles y gabinetes de MDF en tonos neutros para aportar calidez y elegancia sin sobrecargar el espacio. La distribución en “L” con isla central y área de apoyo lateral fue pensada para optimizar el flujo de trabajo, integrando áreas de preparación, cocción y almacenamiento. Las cubiertas de granito complementan el mobiliario, aportando durabilidad y un contraste visual sofisticado.
 
-#### La Solución
+#### Resultado
 
-Diseñamos una cocina integral con muebles de MDF en acabado blanco mate, combinados con encimeras de cuarzo y detalles en madera natural. La distribución en "L" optimiza el flujo de trabajo, mientras que la isla central proporciona espacio adicional de preparación y una zona de desayuno informal.
-
-> "El equipo de Martiel superó nuestras expectativas. La atención al detalle y la calidad de los acabados son excepcionales. Nuestra cocina se ha convertido en el corazón de nuestra quinta." - Familia González
-
-#### El Resultado
-
-La transformación logró crear un espacio elegante y altamente funcional que cumple con todas las necesidades de la familia. Los muebles de MDF con acabados premium resisten perfectamente las condiciones de humedad, mientras que el sistema de iluminación LED realza cada detalle. La instalación eléctrica y de plomería se realizó sin contratiempos, entregando una cocina completamente funcional en tiempo récord.
-
-![alt text](/images/projects/b.png)
-![alt text](/images/projects/c.png)
+El resultado es una cocina amplia, funcional y acogedora, que se integra naturalmente con el área social de la quinta. Los gabinetes de MDF ofrecen gran capacidad de almacenamiento, líneas limpias y un acabado que realza la sensación de orden y modernidad. Ahora, el espacio no solo cumple con su función práctica, sino que se ha convertido en un punto de reunión central para disfrutar de momentos en familia y con amigos.
